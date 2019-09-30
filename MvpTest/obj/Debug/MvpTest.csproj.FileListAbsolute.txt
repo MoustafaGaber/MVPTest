@@ -1,0 +1,10 @@
+D:\Users\Acer\Desktop\MvpTest\MvpTest\obj\Debug\MvpTest.csprojAssemblyReference.cache
+D:\Users\Acer\Desktop\MvpTest\MvpTest\obj\Debug\MvpTest.Form1.resources
+D:\Users\Acer\Desktop\MvpTest\MvpTest\obj\Debug\MvpTest.Properties.Resources.resources
+D:\Users\Acer\Desktop\MvpTest\MvpTest\obj\Debug\MvpTest.csproj.GenerateResource.cache
+D:\Users\Acer\Desktop\MvpTest\MvpTest\obj\Debug\MvpTest.csproj.CoreCompileInputs.cache
+D:\Users\Acer\Desktop\MvpTest\MvpTest\bin\Debug\MvpTest.exe.config
+D:\Users\Acer\Desktop\MvpTest\MvpTest\bin\Debug\MvpTest.exe
+D:\Users\Acer\Desktop\MvpTest\MvpTest\bin\Debug\MvpTest.pdb
+D:\Users\Acer\Desktop\MvpTest\MvpTest\obj\Debug\MvpTest.exe
+D:\Users\Acer\Desktop\MvpTest\MvpTest\obj\Debug\MvpTest.pdb
