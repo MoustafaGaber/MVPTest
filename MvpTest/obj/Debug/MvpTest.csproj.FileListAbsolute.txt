@@ -8,3 +8,4 @@ D:\Users\Acer\Desktop\MvpTest\MvpTest\bin\Debug\MvpTest.exe
 D:\Users\Acer\Desktop\MvpTest\MvpTest\bin\Debug\MvpTest.pdb
 D:\Users\Acer\Desktop\MvpTest\MvpTest\obj\Debug\MvpTest.exe
 D:\Users\Acer\Desktop\MvpTest\MvpTest\obj\Debug\MvpTest.pdb
+D:\Users\Acer\Desktop\MvpTest\MvpTest\obj\Debug\MvpTest.frmCalaculator.resources
